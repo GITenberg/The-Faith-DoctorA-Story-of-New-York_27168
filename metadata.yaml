@@ -1,0 +1,32 @@
+_repo: The-Faith-DoctorA-Story-of-New-York_27168
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eggleston, Edward
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '3293'
+    url: http://www.gutenberg.org/2009/agents/3293
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Eggleston
+description: Published in 1891, this was Eggleston's final novel, before he turned
+  his hand exclusively to history. Here Eggleston satirizes the wealthy followers
+  of Christian Science and faith healing. The book was not written to depreciate anyone's
+  valued delusions, he writes in his Preface, but to make a study of human nature
+  under certain modern conditions.
+gutenberg_issued: '2008-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27168'
+  lccn: '06037564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+title: 'The Faith Doctor: A Story of New York'
+url: http://www.gutenberg.org/ebooks/27168
